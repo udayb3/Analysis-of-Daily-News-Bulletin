@@ -5,6 +5,6 @@ DS250 Project
 Structure of the Repo
 --------------------
 Collection
-  Euro news
-    euro_collect.ipynb = It contains the code for getting news from the euro news latest bulletin videos.
-    para.csv = It conains all the rows from the euro_collect.ipynb file.
+  -Euro news
+    -euro_collect.ipynb = It contains the code for getting news from the euro news latest bulletin videos.
+    -para.csv = It conains all the rows from the euro_collect.ipynb file.
