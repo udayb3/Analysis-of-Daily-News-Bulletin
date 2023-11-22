@@ -9,4 +9,4 @@ Collection
 
       euro_collect.ipynb = It contains the code for getting news from the euro news latest bulletin videos.
 
-      para.csv = It conains all the rows from the euro_collect.ipynb file.
+      para.csv = It contains all the rows from the euro_collect.ipynb file.
